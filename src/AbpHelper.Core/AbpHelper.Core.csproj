@@ -3,7 +3,7 @@
   <Import Project="..\..\common.props" />
 
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <PackageId>EasyAbp.AbpHelper.Core</PackageId>
     <AssemblyName>EasyAbp.AbpHelper.Core</AssemblyName>
     <RootNamespace>EasyAbp.AbpHelper.Core</RootNamespace>
